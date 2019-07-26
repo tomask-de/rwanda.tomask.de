@@ -1,0 +1,18 @@
+DIV.post FORM SELECT {
+	MARGIN-TOP: 1px
+}
+#contentInputViewSourceLabel {
+	MARGIN-TOP: 2px
+}
+#msgInputViewSourceLabel {
+	MARGIN-TOP: 2px
+}
+#contentInputViewSource {
+	MARGIN-TOP: 2px
+}
+#msgInputViewSource {
+	MARGIN-TOP: 2px
+}
+DIV.post #imgFieldDiv {
+	PADDING-TOP: 8px
+}

@@ -1,0 +1,90 @@
+#headerDiv H1 A {
+	FONT-SIZE: 25px; COLOR: #7bab7c; FONT-FAMILY: Verdana
+}
+#headerDiv H1 A:hover {
+	FONT-SIZE: 25px; COLOR: #7bab7c; FONT-FAMILY: Verdana
+}
+#headerDiv H1 A:visited {
+	FONT-SIZE: 25px; COLOR: #7bab7c; FONT-FAMILY: Verdana
+}
+#menuDiv H4 {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Verdana
+}
+#menuDiv LI A {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 150%; FONT-FAMILY: Verdana
+}
+#menuDiv LI A:visited {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 150%; FONT-FAMILY: Verdana
+}
+A.categoryAnchor {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 150%; FONT-FAMILY: Verdana
+}
+A.categoryAnchor:visited {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 150%; FONT-FAMILY: Verdana
+}
+#newPostAnchor {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 150%; FONT-FAMILY: Verdana
+}
+#loginDiv LABEL {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 150%; FONT-FAMILY: Verdana
+}
+#headerDiv H2 {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Verdana
+}
+#aboutMeDiv H4 {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Verdana
+}
+#headerDiv P {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 150%; FONT-FAMILY: Verdana
+}
+#aboutMeDiv P {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 150%; FONT-FAMILY: Verdana
+}
+DIV.post H2 A {
+	FONT-SIZE: 25px; COLOR: #7bab7c; LINE-HEIGHT: 110%; FONT-FAMILY: Verdana
+}
+DIV.post H2 A:hover {
+	FONT-SIZE: 25px; COLOR: #7bab7c; LINE-HEIGHT: 110%; FONT-FAMILY: Verdana
+}
+DIV.post H2 A:visited {
+	FONT-SIZE: 25px; COLOR: #7bab7c; LINE-HEIGHT: 110%; FONT-FAMILY: Verdana
+}
+.time {
+	FONT-SIZE: 10px; COLOR: #7bab7c; FONT-FAMILY: Verdana
+}
+DIV.post {
+	FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: 150%; FONT-FAMILY: Verdana
+}
+DIV.post IMG {
+	BORDER-LEFT-COLOR: #000000; BORDER-BOTTOM-COLOR: #000000; BORDER-TOP-COLOR: #000000; BORDER-RIGHT-COLOR: #000000
+}
+DIV.comment {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 100%; FONT-FAMILY: Verdana
+}
+A:visited {
+	COLOR: #000000
+}
+A {
+	COLOR: #000000
+}
+#aboutMeDiv A {
+	COLOR: #000000
+}
+A:hover {
+	COLOR: #000000
+}
+#containerDiv {
+	COLOR: #000000; BACKGROUND-COLOR: #ffffff
+}
+BODY {
+	BACKGROUND-IMAGE: none; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #7bab7c
+}
+#loginDiv INPUT.textfield {
+	FONT-SIZE: 12px; BACKGROUND-COLOR: #bad3bb
+}
+#loginDiv INPUT.button {
+	FONT-SIZE: 12px; BACKGROUND-COLOR: #bad3bb
+}
+#newPostAnchor IMG {
+	FONT-SIZE: 12px; BACKGROUND-COLOR: #bad3bb
+}

@@ -1,0 +1,399 @@
+BODY {
+	FONT-FAMILY: Verdana, Helvetica, sans-serif; BACKGROUND-COLOR: #7bab7c
+}
+#containerDiv {
+	PADDING-RIGHT: 25px; PADDING-LEFT: 25px; PADDING-BOTTOM: 25px; MARGIN: 30px auto 0px; WIDTH: 800px; COLOR: black; PADDING-TOP: 25px; BACKGROUND-COLOR: white
+}
+A {
+	COLOR: black
+}
+A:hover {
+	COLOR: black; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: black
+}
+HR {
+	DISPLAY: none
+}
+UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+LI {
+	
+}
+INPUT.button {
+	BORDER-RIGHT: #a8c4aa 1px solid; BORDER-TOP: #a8c4aa 1px solid; FONT-SIZE: x-small; BORDER-LEFT: #a8c4aa 1px solid; BORDER-BOTTOM: #a8c4aa 1px solid; BACKGROUND-COLOR: white
+}
+.textfield {
+	FONT-FAMILY: Verdana, sans-serif
+}
+.time {
+	FONT-SIZE: 10px; COLOR: #7bab7c; FONT-FAMILY: Verdana, Helvetica, sans-serif
+}
+SPAN.error {
+	MARGIN-LEFT: 5px; COLOR: #ff0000
+}
+#bannerDiv {
+	
+}
+#bannerDiv IMG {
+	
+}
+#headerDiv {
+	PADDING-LEFT: 20px; FLOAT: left; WIDTH: 560px; BORDER-BOTTOM: #cccccc 1px solid
+}
+.aboutBlogRemoved#headerDiv {
+	PADDING-BOTTOM: 20px
+}
+#headerDiv H1 {
+	FONT-WEIGHT: normal; MARGIN: 10px 0px 0px; OVERFLOW: hidden; WIDTH: 560px
+}
+#headerDiv H1 A {
+	FONT-SIZE: 25px; COLOR: #7bab7c; FONT-FAMILY: Verdana, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+#headerDiv H1 A:hover {
+	
+}
+#headerDiv H2 {
+	FONT-SIZE: 12px; MARGIN: 10px 0px 0px; OVERFLOW: hidden; WIDTH: 560px; COLOR: black; FONT-FAMILY: Verdana, Helvetica, sans-serif
+}
+#headerDiv P {
+	FONT-SIZE: 12px; MARGIN: 5px 0px 15px; OVERFLOW: hidden; WIDTH: 560px; COLOR: black; LINE-HEIGHT: 150%; FONT-FAMILY: Verdana, Helvetica, sans-serif
+}
+#headerDiv P A {
+	
+}
+#headerDiv P A:hover {
+	
+}
+DIV.error {
+	FONT-SIZE: small
+}
+DIV.error H2 {
+	FONT-WEIGHT: normal; MARGIN: 20px 0px 0px
+}
+DIV.error P {
+	
+}
+DIV.message {
+	FONT-SIZE: small
+}
+DIV.message H1 {
+	FONT-WEIGHT: normal
+}
+DIV.message P {
+	
+}
+#mainDiv {
+	FLOAT: left; MARGIN: 20px 30px 0px 20px; WIDTH: 560px
+}
+* HTML #mainDiv {
+	MARGIN-LEFT: 10px
+}
+#newPostAnchor {
+	FONT-SIZE: 12px; FLOAT: right; FONT-FAMILY: Verdana, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+#newPostAnchor SPAN {
+	TEXT-DECORATION: underline
+}
+#newPostAnchor:hover SPAN {
+	TEXT-DECORATION: none
+}
+#newPostAnchor IMG {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BACKGROUND: url(../images/css/template1_green/arrow.gif) #bad3bb no-repeat center center; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 5px; VERTICAL-ALIGN: middle; WIDTH: 10px; PADDING-TOP: 0px; HEIGHT: 10px; BORDER-RIGHT-WIDTH: 0px
+}
+DIV.post {
+	FONT-SIZE: 12px; PADDING-BOTTOM: 50px; MARGIN: 20px 0px 50px; OVERFLOW: hidden; WIDTH: 560px; COLOR: black; LINE-HEIGHT: 150%; BORDER-BOTTOM: #cccccc 1px dashed; FONT-FAMILY: Verdana, Helvetica, sans-serif
+}
+DIV.post H2 {
+	FONT-WEIGHT: normal; MARGIN-BOTTOM: 15px
+}
+DIV.post H2 A {
+	FONT-SIZE: 25px; COLOR: #7bab7c; LINE-HEIGHT: 110%; FONT-FAMILY: Verdana, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+DIV.post H2 A:hover {
+	
+}
+DIV.post A.categoryAnchor {
+	FLOAT: right; LINE-HEIGHT: 150%
+}
+DIV.post A.categoryAnchor:hover {
+	
+}
+DIV.post SPAN.time {
+	DISPLAY: block
+}
+DIV.post P {
+	MARGIN-TOP: 0px
+}
+DIV.post A {
+	
+}
+DIV.post A:hover {
+	
+}
+DIV.post IMG {
+	BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; BORDER-LEFT: black 1px solid; BORDER-BOTTOM: black 1px solid
+}
+DIV.post UL {
+	MARGIN: 20px 0px 0px
+}
+DIV.post LI.commentLi {
+	POSITION: relative
+}
+DIV.post LI A {
+	FONT-WEIGHT: bold; FONT-SIZE: x-small
+}
+DIV.post LI A:hover {
+	
+}
+DIV.post SPAN.niceURL {
+	DISPLAY: inline; RIGHT: 0px; POSITION: absolute
+}
+A.commentAnchor {
+	FONT-WEIGHT: bold; FONT-SIZE: x-small
+}
+A.commentAnchor:hover {
+	
+}
+DIV.commentBlock {
+	OVERFLOW: hidden
+}
+DIV.comment {
+	FONT-SIZE: 12px; COLOR: black; LINE-HEIGHT: 100%; FONT-FAMILY: Verdana, Helvetica, sans-serif
+}
+DIV.comment H5 {
+	FONT-WEIGHT: normal
+}
+P.commentText {
+	
+}
+P.commentText A {
+	
+}
+P.commentText A:hover {
+	
+}
+A.delCommentAnchor {
+	
+}
+A.delCommentAnchor:hover {
+	
+}
+DIV.post FORM {
+	MARGIN-TOP: 10px
+}
+DIV.post #subjectFieldDiv {
+	FLOAT: left; MARGIN: 0px 5px 5px 0px
+}
+DIV.post #categoryFieldDiv {
+	CLEAR: right; FLOAT: none
+}
+DIV.post #authorFieldDiv {
+	DISPLAY: block; FLOAT: left; MARGIN: 0px 35px 0px 0px
+}
+DIV.post #codeFieldDiv {
+	FLOAT: left; MARGIN: 0px 10px 0px 0px
+}
+DIV.post #imgFieldDiv {
+	CLEAR: right; FLOAT: none; PADDING-TOP: 2px
+}
+* HTML DIV.post #imgFieldDiv {
+	PADDING-TOP: 8px
+}
+DIV.post FORM LABEL {
+	
+}
+#uploadAnchor {
+	MARGIN-TOP: -18px; FLOAT: right
+}
+#contentInput {
+	WIDTH: 98%
+}
+#msgInput {
+	WIDTH: 98%
+}
+#editorBody {
+	MARGIN: 5px; FONT-FAMILY: Verdana, sans-serif; BACKGROUND-COLOR: white
+}
+#editorBody IMG {
+	BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; BORDER-LEFT: black 1px solid; BORDER-BOTTOM: black 1px solid
+}
+#contentInputViewSourceLabel {
+	MARGIN-TOP: 3px
+}
+#msgInputViewSourceLabel {
+	MARGIN-TOP: 3px
+}
+#contentInputViewSource {
+	MARGIN-TOP: 6px
+}
+#msgInputViewSource {
+	MARGIN-TOP: 6px
+}
+* HTML #contentInputViewSourceLabel {
+	MARGIN-TOP: 1px
+}
+* HTML #msgInputViewSourceLabel {
+	MARGIN-TOP: 1px
+}
+* HTML #contentInputViewSource {
+	MARGIN-TOP: 1px
+}
+* HTML #msgInputViewSource {
+	MARGIN-TOP: 1px
+}
+* HTML DIV.post FORM SELECT {
+	MARGIN-TOP: 1px
+}
+DIV.post FORM SELECT.textfield {
+	HEIGHT: 22px
+}
+DIV.post #formButtonsDiv {
+	MARGIN: -10px 0px 0px
+}
+DIV.post FORM INPUT.button {
+	MARGIN: 0px 5px 0px 0px
+}
+DIV.post FORM #registerBtn {
+	MARGIN-TOP: 7px
+}
+DIV.post FORM SPAN.notice {
+	DISPLAY: block; FONT-SIZE: x-small; MARGIN-BOTTOM: 5px; COLOR: #7bab7c
+}
+#menuDiv {
+	PADDING-LEFT: 30px; FONT-SIZE: 12px; FLOAT: left; OVERFLOW: hidden; BORDER-LEFT: #cccccc 1px dashed; WIDTH: 150px; COLOR: black; LINE-HEIGHT: 150%; FONT-FAMILY: Verdana, sans-serif
+}
+#menuDiv UL {
+	
+}
+#menuDiv LI {
+	
+}
+#menuDiv A {
+	TEXT-DECORATION: none
+}
+#menuDiv A:hover {
+	
+}
+#menuDiv H4 {
+	FONT-SIZE: 12px; MARGIN: 0px 0px 15px; COLOR: black; FONT-FAMILY: Verdana, sans-serif
+}
+#menuDiv DIV {
+	MARGIN-BOTTOM: 20px; PADDING-BOTTOM: 25px
+}
+#menuDiv IMG {
+	
+}
+#aboutMeDiv {
+	BORDER-BOTTOM: #cccccc 1px dashed
+}
+#aboutMeDiv H4 {
+	
+}
+#aboutMeDiv P {
+	LINE-HEIGHT: 150%
+}
+#aboutMeDiv A {
+	TEXT-DECORATION: underline
+}
+#categoriesDiv {
+	BORDER-BOTTOM: #cccccc 1px dashed
+}
+#categoriesDiv H4 {
+	
+}
+#categoriesDiv UL {
+	
+}
+#categoriesDiv LI {
+	MARGIN-BOTTOM: 10px
+}
+#categoriesDiv A {
+	
+}
+#categoriesDiv A:hover {
+	
+}
+#prevPostsDiv {
+	BORDER-BOTTOM: #cccccc 1px dashed
+}
+#prevPostsDiv H4 {
+	
+}
+#prevPostsDiv UL {
+	
+}
+#prevPostsDiv LI {
+	MARGIN-BOTTOM: 10px
+}
+#prevPostsDiv A {
+	
+}
+#prevPostsDiv A:hover {
+	
+}
+#prevPostsDiv SPAN.time {
+	
+}
+#loginDiv {
+	
+}
+#loginDiv H4 {
+	
+}
+#loginDiv A {
+	
+}
+#loginDiv A:hover {
+	TEXT-DECORATION: underline
+}
+#loginDiv UL {
+	
+}
+#loginDiv LI {
+	MARGIN-BOTTOM: 10px
+}
+#loginDiv LI A {
+	
+}
+#loginDiv LI A:hover {
+	
+}
+#loginDiv LABEL {
+	
+}
+#loginDiv SPAN.error {
+	FONT-WEIGHT: normal; TEXT-TRANSFORM: uppercase; COLOR: #999999
+}
+#loginDiv INPUT {
+	VERTICAL-ALIGN: middle
+}
+#loginDiv INPUT.textfield {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 12px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 3px 0px 10px; WIDTH: 150px; HEIGHT: 15px; BACKGROUND-COLOR: #bad3bb; BORDER-RIGHT-WIDTH: 0px
+}
+#loginDiv INPUT.button {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BACKGROUND: url(../images/css/template1_green/arrow.gif) #bad3bb no-repeat center 50%; LEFT: 119px; BORDER-BOTTOM-WIDTH: 0px; WIDTH: 31px; CURSOR: pointer; COLOR: transparent; POSITION: relative; TOP: -18px; HEIGHT: 15px; BORDER-RIGHT-WIDTH: 0px
+}
+#menuDiv #loginDiv INPUT.button {
+	FONT-SIZE: 0px
+}
+#logoutAnchor {
+	
+}
+#footerDiv {
+	CLEAR: both; FONT-SIZE: 10px; MARGIN-RIGHT: 180px; HEIGHT: 30px; TEXT-ALIGN: center
+}
+#footerDiv A {
+	FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+#footerDiv A:hover {
+	TEXT-DECORATION: none
+}
+#prevPageLink {
+	MARGIN-RIGHT: 20px
+}
+#nextPageLink {
+	
+}

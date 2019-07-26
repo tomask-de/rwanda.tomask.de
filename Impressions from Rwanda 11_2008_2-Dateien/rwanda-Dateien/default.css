@@ -1,0 +1,177 @@
+* HTML {
+	OVERFLOW-Y: scroll
+}
+TEXTAREA {
+	DISPLAY: block
+}
+OBJECT {
+	DISPLAY: block; MARGIN: 8px auto
+}
+UL.userGenerated {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 20px; PADDING-TOP: 0px; LIST-STYLE-TYPE: square
+}
+OL.userGenerated {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 20px; PADDING-TOP: 0px
+}
+DIV.post TABLE {
+	DISPLAY: block; MARGIN: auto; WIDTH: auto
+}
+.gallery {
+	BORDER-TOP-WIDTH: 0px; DISPLAY: block; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 5px auto auto; WIDTH: 400px; BACKGROUND-COLOR: transparent; TEXT-ALIGN: center; BORDER-RIGHT-WIDTH: 0px
+}
+.gallery TD {
+	WIDTH: 200px; TEXT-ALIGN: center
+}
+.galleryNav {
+	MARGIN: 10px
+}
+.bloggallery {
+	BORDER-TOP-WIDTH: 0px; DISPLAY: block; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 5px auto auto; WIDTH: 400px; BACKGROUND-COLOR: transparent; TEXT-ALIGN: center; BORDER-RIGHT-WIDTH: 0px
+}
+.bloggallery TD {
+	WIDTH: 200px; TEXT-ALIGN: center
+}
+.docLink {
+	DISPLAY: block; MARGIN: auto auto 5px; WIDTH: 12em; TEXT-ALIGN: center
+}
+#mainDiv {
+	MIN-HEIGHT: 1px
+}
+#mainDiv .docLink IMG {
+	BORDER-TOP-WIDTH: 0px; DISPLAY: inline; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px; VERTICAL-ALIGN: top; BORDER-RIGHT-WIDTH: 0px
+}
+#editorBody {
+	FONT-SIZE: 12px; BACKGROUND-IMAGE: none; WIDTH: auto; CURSOR: text; BACKGROUND-COLOR: white; TEXT-ALIGN: left
+}
+#editorBody H1 {
+	FONT-SIZE: 12px
+}
+#editorBody H2 {
+	FONT-SIZE: 12px
+}
+#editorBody H3 {
+	FONT-SIZE: 12px
+}
+#editorBody H4 {
+	FONT-SIZE: 12px
+}
+#editorBody H5 {
+	FONT-SIZE: 12px
+}
+#editorBody H6 {
+	FONT-SIZE: 12px
+}
+#editorBody TABLE {
+	FONT-SIZE: 12px
+}
+#editorBody #galleryImg {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+#menuDiv IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+#msgInputViewSource {
+	FLOAT: right
+}
+#msgInputViewSourceLabel {
+	FLOAT: right
+}
+#contentInputViewSource {
+	FLOAT: right
+}
+#contentInputViewSourceLabel {
+	FLOAT: right
+}
+#commentEmailInput {
+	DISPLAY: none
+}
+#mainDiv IMG {
+	PADDING-RIGHT: 2px; DISPLAY: block; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; MARGIN: 8px auto; PADDING-TOP: 2px; TEXT-ALIGN: center
+}
+#editorBody IMG {
+	PADDING-RIGHT: 2px; DISPLAY: block; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; MARGIN: 8px auto; PADDING-TOP: 2px; TEXT-ALIGN: center
+}
+#mainDiv #jsShareMenu {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 10px; Z-INDEX: 99; BACKGROUND-IMAGE: url(../images/system/share-background.png); BORDER-BOTTOM-WIDTH: 0px; WIDTH: 218px; COLOR: black; LINE-HEIGHT: 100%; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Verdana, sans-serif; POSITION: absolute; BORDER-COLLAPSE: collapse; HEIGHT: 103px; BACKGROUND-COLOR: white; BORDER-RIGHT-WIDTH: 0px
+}
+#mainDiv #jsShareMenu TH {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; COLOR: black; PADDING-TOP: 0px; HEIGHT: 21px; TEXT-ALIGN: center
+}
+#mainDiv #jsShareMenu TD {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; WIDTH: 109px; PADDING-TOP: 10px; HEIGHT: 42px
+}
+* HTML #mainDiv #jsShareMenu TD {
+	HEIGHT: 22px
+}
+#mainDiv #jsShareMenu A {
+	PADDING-RIGHT: 5px; DISPLAY: inline-block; PADDING-LEFT: 24px; FONT-WEIGHT: normal; PADDING-BOTTOM: 0px; COLOR: black; PADDING-TOP: 1px; HEIGHT: 15px; TEXT-DECORATION: none
+}
+#mainDiv #jsShareMenu A:hover {
+	TEXT-DECORATION: underline
+}
+#mainDiv #jsShareMenu .facebook {
+	BACKGROUND: url(http://static.ak.fbcdn.net/images/share/facebook_share_icon.gif?2:26981) no-repeat left top
+}
+#mainDiv #jsShareMenu .myspace {
+	BACKGROUND: url(../images/system/icon_myspace.gif) no-repeat left top
+}
+#mainDiv #jsShareMenu .linkedin {
+	BACKGROUND: url(../images/system/icon_linkedin.gif) no-repeat left top
+}
+#mainDiv #jsShareMenu .twitter {
+	BACKGROUND: url(../images/system/icon_twitter.gif) no-repeat left top
+}
+#mainDiv .smiley {
+	BORDER-TOP-WIDTH: 0px; DISPLAY: inline; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px; VERTICAL-ALIGN: middle; TEXT-ALIGN: left; BORDER-RIGHT-WIDTH: 0px
+}
+#editorBody .smiley {
+	BORDER-TOP-WIDTH: 0px; DISPLAY: inline; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px; VERTICAL-ALIGN: middle; TEXT-ALIGN: left; BORDER-RIGHT-WIDTH: 0px
+}
+#editorBody .videoPlaceholder {
+	BORDER-RIGHT: black 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: black 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: black 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: black 1px solid
+}
+#mainDiv .gallery IMG {
+	PADDING-RIGHT: 2px; DISPLAY: inline; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; MARGIN: 0px; CURSOR: pointer; PADDING-TOP: 2px; BACKGROUND-COLOR: white; TEXT-ALIGN: left
+}
+#mainDiv .gallery .activeGalleryImg {
+	DISPLAY: block; MARGIN: 5px auto 10px; TEXT-ALIGN: center
+}
+#menuDiv DIV {
+	OVERFLOW: hidden
+}
+#toolbarDiv {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 2px; PADDING-LEFT: 2px; BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 10px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 2px; MARGIN: 0px; LINE-HEIGHT: 100%; PADDING-TOP: 2px; HEIGHT: 22px; BACKGROUND-COLOR: #d4d0c8; BORDER-RIGHT-WIDTH: 0px
+}
+#toolbarDiv IMG.button {
+	BORDER-RIGHT: #d4d0c8 1px solid; PADDING-RIGHT: 0px; BACKGROUND-POSITION: center center; BORDER-TOP: #d4d0c8 1px solid; DISPLAY: block; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: #d4d0c8 1px solid; WIDTH: 21px; PADDING-TOP: 0px; BORDER-BOTTOM: #d4d0c8 1px solid; BACKGROUND-REPEAT: no-repeat; HEIGHT: 20px
+}
+#toolbarDiv IMG.button:hover {
+	BORDER-LEFT-COLOR: black; BORDER-BOTTOM-COLOR: black; BORDER-TOP-COLOR: black; BACKGROUND-COLOR: #dfdcd8; BORDER-RIGHT-COLOR: black
+}
+#toolbarDiv IMG.separator {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; FLOAT: left; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 1px 0px 0px; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+#toolbarDiv #boldToolbarBtn {
+	BACKGROUND-IMAGE: url(/blog/images/system/btn_text_bold.gif)
+}
+#toolbarDiv #italicToolbarBtn {
+	BACKGROUND-IMAGE: url(/blog/images/system/btn_text_italic.gif)
+}
+#toolbarDiv #underlineToolbarBtn {
+	BACKGROUND-IMAGE: url(/blog/images/system/btn_text_underline.gif)
+}
+#toolbarDiv #urlToolbarBtn {
+	BACKGROUND-IMAGE: url(/blog/images/system/btn_insert_hyperlink.gif)
+}
+#toolbarDiv #flashToolbarBtn {
+	BACKGROUND-IMAGE: url(/blog/images/system/btn_insert_flash.gif)
+}
+#toolbarDiv #smileyToolbarBtn {
+	BACKGROUND-IMAGE: url(/blog/images/system/smiley_smile.gif)
+}
+#toolbarDiv #imageToolbarBtn {
+	BACKGROUND-IMAGE: url(/blog/images/system/btn_insert_image.gif)
+}
+#toolbarDiv #fileToolbarBtn {
+	BACKGROUND-IMAGE: url(/blog/images/system/btn_insert_file.gif)
+}
